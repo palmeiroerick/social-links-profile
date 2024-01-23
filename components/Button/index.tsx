@@ -4,7 +4,7 @@ type ButtonProps = {
 
 const Button = ({ children }: ButtonProps) => {
   return (
-    <button className="h-11 rounded-lg font-bold text-sm text-white bg-grey">
+    <button className="h-11 rounded-lg font-bold hover:bg-green hover:text-grey text-sm text-white bg-grey">
       {children}
     </button>
   );
