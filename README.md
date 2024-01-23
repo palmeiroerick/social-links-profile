@@ -17,12 +17,13 @@ Users should be able to:
 
 ## Screenshot
 
-![]()
+![Screen Shot 2024-01-22 at 23 05 22](https://github.com/palmeiroerick/social-links-profile/assets/148393698/9611ef76-b5b7-49ec-9d34-c74dbd7fa0bd)
+
 
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/social-links-profile)
+- [Live Site](https://social-links-profile-ten.vercel.app/)
 
 ## Built with
 
