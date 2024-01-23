@@ -3,7 +3,7 @@ import Image from "next/image";
 
 const Home = () => {
   return (
-    <main className="w-80 gap-6 p-6 flex flex-col items-center bg-darkGrey rounded-xl">
+    <main className="w-80 gap-6 p-6 flex flex-col items-center bg-darkGrey rounded-xl lg:w-96 lg:p-8">
       <Image
         className="rounded-full"
         src="/assets/avatar-jessica.jpeg"
