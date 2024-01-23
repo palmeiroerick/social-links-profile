@@ -16,7 +16,11 @@ const RootLayout = ({
 }>) => {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body
+        className={`${inter.className} bg-offBlack flex items-center justify-center w-screen h-screen`}
+      >
+        {children}
+      </body>
     </html>
   );
 };
